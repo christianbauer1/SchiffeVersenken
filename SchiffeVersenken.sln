@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchiffeVersenken", "SchiffeVersenken\SchiffeVersenken.csproj", "{1ACFF9BE-C3D2-4FC8-BDAC-28A253CC6809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schiffeversenken.Test", "Schiffeversenken.Test\Schiffeversenken.Test.csproj", "{DBCD63A4-2981-4CB6-9495-EFED60CAE78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACFF9BE-C3D2-4FC8-BDAC-28A253CC6809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACFF9BE-C3D2-4FC8-BDAC-28A253CC6809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACFF9BE-C3D2-4FC8-BDAC-28A253CC6809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACFF9BE-C3D2-4FC8-BDAC-28A253CC6809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCD63A4-2981-4CB6-9495-EFED60CAE78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCD63A4-2981-4CB6-9495-EFED60CAE78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCD63A4-2981-4CB6-9495-EFED60CAE78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCD63A4-2981-4CB6-9495-EFED60CAE78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD2BB11-8F3D-4723-8905-8221E84AB356}
+	EndGlobalSection
+EndGlobal
