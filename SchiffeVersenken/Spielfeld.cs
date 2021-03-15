@@ -60,11 +60,11 @@ namespace SchiffeVersenken //Alle Methoden, die das Spielfeld angehen, werden hi
 
             if (IsKoordinatenAußerhalbDesSpielfelds(koordinaten))
             {
-                throw new Exception("Die Koordinaten sind außerhalb des Spielfelds!!");
+                throw new Exception("Die Koordinaten liegen außerhalb des Spielfelds.");
             }
             else if (IsSchiffBereitsVorhanden(koordinaten))
             {
-                throw new Exception("Auf den genannten Koordinaten ist bereits ein Schiff vorhanden!!");
+                throw new Exception("Auf den gewählten Koordinaten ist bereits ein Schiff vorhanden.");
             }
             else
             {
