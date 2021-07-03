@@ -12,6 +12,4 @@ Used technologies/concepts:
 - Unit Testing
 - Methods 
 
-Further fixes: When the repo is downloaded, the .gitignore 
-ignores every Build made (Debug folder). So the software
-cannot be executed.
+Attention: Build before execution!
