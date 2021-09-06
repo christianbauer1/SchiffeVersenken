@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Backup\CodeBackup.cs" />
     <Compile Include="Feld.cs" />
     <Compile Include="Feldkoordinate.cs" />
     <Compile Include="Form1.cs">
@@ -103,9 +102,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\missIcon.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Backup\Codebackup2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
